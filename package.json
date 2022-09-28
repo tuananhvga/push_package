@@ -1,0 +1,29 @@
+{
+  "name": "push_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuananhvga/push_package.git"
+  },
+  "keywords": [
+    "push_package"
+  ],
+  "author": "unicate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuananhvga/push_package/issues"
+  },
+  "homepage": "https://github.com/tuananhvga/push_package#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {
+    "@types/yargs": "^17.0.12"
+  }
+}
